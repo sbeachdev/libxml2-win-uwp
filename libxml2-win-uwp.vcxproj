@@ -149,6 +149,7 @@
   <ItemGroup>
     <None Include=".gitattributes" />
     <None Include=".gitignore" />
+    <None Include="Copyright.md" />
     <None Include="README.md" />
   </ItemGroup>
   <PropertyGroup Label="Globals">

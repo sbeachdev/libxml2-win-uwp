@@ -4,7 +4,7 @@ with different Copyright notices) all the files are:
 
  Copyright (C) 1998-2012 Daniel Veillard.  All Rights Reserved.
  
-Changes to the original files for use in the Windows 10 UWP build:
+Changes to the original source code and added files for the Windows 10 UWP build:
 
   Copyright (C) 20172 Silicon Beach Software.  All Rights Reserved.
 

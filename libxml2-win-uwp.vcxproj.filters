@@ -116,5 +116,6 @@
     <None Include="README.md" />
     <None Include=".gitignore" />
     <None Include=".gitattributes" />
+    <None Include="Copyright.md" />
   </ItemGroup>
 </Project>
