@@ -146,6 +146,11 @@
     <ClCompile Include="source\xpointer.c" />
     <ClCompile Include="source\xzlib.c" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include=".gitattributes" />
+    <None Include=".gitignore" />
+    <None Include="README.md" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{fe328d68-df4d-4d48-b9e1-1e20003e1e28}</ProjectGuid>
     <Keyword>StaticLibrary</Keyword>
