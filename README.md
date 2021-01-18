@@ -1,7 +1,7 @@
 # libxml2-win-uwp
 A Windows Universal Platform (UWP) build of the libxml2 XML parser for use with Windows 10 Microsoft Store apps.
 
-This is free software available under the MIT License: https://opensource.org/licenses/mit-license.html 
+This is free software available under the MIT License. Read the Copyright.md file for details.
 
 The website for the original libxml2 project: http://www.xmlsoft.org/
 
