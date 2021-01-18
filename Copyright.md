@@ -6,7 +6,7 @@ with different Copyright notices) all the files are:
  
 Changes to the original source code and added files for the Windows 10 UWP build:
 
-  Copyright (C) 20172 Silicon Beach Software.  All Rights Reserved.
+  Copyright (C) 2017 Silicon Beach Software.  All Rights Reserved.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
