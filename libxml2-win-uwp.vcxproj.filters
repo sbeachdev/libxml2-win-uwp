@@ -51,7 +51,6 @@
     <ClCompile Include="source\xzlib.c" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="config.h" />
     <ClInclude Include="elfgcchack.h" />
     <ClInclude Include="include\libxml\buf.h" />
     <ClInclude Include="include\libxml\c14n.h" />
@@ -110,6 +109,7 @@
     <ClInclude Include="include\libxml\xzlib.h" />
     <ClInclude Include="include\winuwpcompat.h" />
     <ClInclude Include="include\wsockcompat.h" />
+    <ClInclude Include="config.h" />
     <ClInclude Include="targetver.h" />
   </ItemGroup>
   <ItemGroup>
