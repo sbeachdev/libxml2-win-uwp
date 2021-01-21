@@ -13,4 +13,4 @@ Notes:
 
 - The folder arrangement for the header files had to be changed since the ARM64 compiler was having issues finding them.
 
-- The libxml2 was used in SaviDraw to parse from a memory buffer only. As of the original push of this souce code, no testing has been done using the builr-in file I/O. Fixes / upgrades are welcome.
+- libxml2 was used in SaviDraw to parse from a memory buffer only. As of the original push of this souce code, no testing has been done using the built-in file I/O. Fixes / upgrades are welcome.
