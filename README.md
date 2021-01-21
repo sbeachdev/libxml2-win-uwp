@@ -3,9 +3,7 @@ A Windows Universal Platform (UWP) build of the libxml2 XML parser for use with 
 
 This is free software available under the MIT License. Read the Copyright.md file for details.
 
-The website for the original libxml2 project: http://www.xmlsoft.org/
-
-Source: version 2.9.6 of the libxml2 code base.
+Source: This project was built from version 2.9.6 of the libxml2 code base. URL: http://www.xmlsoft.org/
 
 Build enviroment: Visual Studio 2019. Compiled for C++ 17. Generates a static library.
 
